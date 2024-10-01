@@ -40,6 +40,12 @@ public class Main {
 		} catch (IOException e) {
 			System.err.println("No se ha podido mover el fichero correctamente");
 		}
+		//Vamos a borrar un fichero
+		if(fichero.exists()){
+			if (fichero.delete()) {
+				System.out.println("Se ha borrado el fichero.");
+			} else System.err.println("No se ha podido borrar el fichero");
+		}
 	}
 
 }
