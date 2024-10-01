@@ -1,0 +1,18 @@
+package javaio;
+
+import java.io.File;
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Iniciando el programa...");
+		File directorio = new File("ficheros2");
+		//if (!directorio.mkdir()) {
+			if (!directorio.mkdir()) {
+				System.err.println("No hemos podido crear el directorio.");
+				System.exit(-1);
+			}
+		//}
+	}
+
+}

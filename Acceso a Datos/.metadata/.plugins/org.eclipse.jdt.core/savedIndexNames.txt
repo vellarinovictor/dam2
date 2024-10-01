@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\dam2\Desktop\Acceso a Datos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2156069474.index
+2485878017.index
+2679270061.index
+2669360604.index
