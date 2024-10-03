@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import org.apache.commons.io.FileUtils;
 
-public class Main {
+public class Main {//Uso de FileUtils
 
 	public static void main(String[] args) {
 		System.out.println("Iniciando el programa...");
