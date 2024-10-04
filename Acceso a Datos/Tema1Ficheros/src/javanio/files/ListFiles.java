@@ -18,7 +18,22 @@ public class ListFiles {
 	private static void listarFicheros(Path path) {
 		try {
 			Stream<Path> stream = Files.list(path);
-			ArrayList<Path> lista = (ArrayList<Path>) stream.collect(Collectors.toList());
+//			ArrayList<Path> lista = (ArrayList<Path>) stream.collect(Collectors.toList());
+//			for	(Path path1: stream.collect(Collectors.toList())) {
+//				System.out.println(path1);
+//			}
+//			for(Path item : lista) {
+//				System.out.println(item);
+//			}
+			stream.forEach(
+				item->{
+					if (item.toFile().isDirectory()) {
+					listarFicheros(Path.of(item.toString()));	
+					}else {
+						System.out.println(item.toString());
+					}
+				}
+			);
 		} catch (IOException e) {
 			System.err.println("No se ha podido recuperar la lista del path: "+path.toString());
 			System.err.println(e.getMessage());
