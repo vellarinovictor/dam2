@@ -68,3 +68,13 @@ C:\Users\dam2\Desktop\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\Libr
 C:\Users\dam2\Desktop\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\LibreriaV1.csproj.CoreCompileInputs.cache
 C:\Users\dam2\Desktop\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\LibreriaV1.exe
 C:\Users\dam2\Desktop\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\LibreriaV1.pdb
+C:\Users\vella\OneDrive\Escritorio\GRADO\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\bin\Debug\LibreriaV1.exe.config
+C:\Users\vella\OneDrive\Escritorio\GRADO\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\bin\Debug\LibreriaV1.exe
+C:\Users\vella\OneDrive\Escritorio\GRADO\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\bin\Debug\LibreriaV1.pdb
+C:\Users\vella\OneDrive\Escritorio\GRADO\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\LibreriaV1.csproj.AssemblyReference.cache
+C:\Users\vella\OneDrive\Escritorio\GRADO\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\LibreriaV1.Properties.Resources.resources
+C:\Users\vella\OneDrive\Escritorio\GRADO\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\LibreriaV3._1.PantallaPrincipal.resources
+C:\Users\vella\OneDrive\Escritorio\GRADO\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\LibreriaV1.csproj.GenerateResource.cache
+C:\Users\vella\OneDrive\Escritorio\GRADO\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\LibreriaV1.csproj.CoreCompileInputs.cache
+C:\Users\vella\OneDrive\Escritorio\GRADO\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\LibreriaV1.exe
+C:\Users\vella\OneDrive\Escritorio\GRADO\Interfaces\LibreriaV3\LibreriaV1\LibreriaV1\obj\Debug\LibreriaV1.pdb
