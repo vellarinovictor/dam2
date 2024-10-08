@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\persistencia\\utilsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\persistencia\\utilsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\negocio\\tlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\negocio\\tlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\vista\\frmlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\vista\\frmlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\persistencia\\iacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\persistencia\\iacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\negocio\\controlaccesodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\negocio\\controlaccesodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\persistencia\\accesodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\persistencia\\accesodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\persistencia\\accesobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\persistencia\\accesobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\vista\\frmconsultarfacturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\vista\\frmconsultarfacturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\vista\\frminsertarfacturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\vista\\frminsertarfacturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\vista\\frmconsultarfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\vista\\frmconsultarfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\negocio\\tcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\negocio\\tcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TLibro.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Negocio\\TLibro.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Negocio\\TLibro.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Negocio\\TLibro.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Negocio\\TLibro.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:45:22.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLibro.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmLibro.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Vista\\FrmLibro.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmLibro.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Vista\\FrmLibro.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:44:59.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmInsertarFacturas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmInsertarFacturas.Designer.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Vista\\FrmInsertarFacturas.Designer.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmInsertarFacturas.Designer.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Vista\\FrmInsertarFacturas.Designer.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAYwBUBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:31:06.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmConsultarFacturas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmConsultarFacturas.Designer.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Vista\\FrmConsultarFacturas.Designer.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmConsultarFacturas.Designer.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Vista\\FrmConsultarFacturas.Designer.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAqwNQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:29:04.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Vista\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmPrincipal.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Vista\\FrmPrincipal.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:56:04.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UtilSQL.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Persistencia\\UtilSQL.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Persistencia\\UtilSQL.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Persistencia\\UtilSQL.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Persistencia\\UtilSQL.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAhwE8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:52:08.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmConsultarFacturas.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmConsultarFacturas.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Vista\\FrmConsultarFacturas.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmConsultarFacturas.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Vista\\FrmConsultarFacturas.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:45:39.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccesoBD.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Persistencia\\AccesoBD.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Persistencia\\AccesoBD.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Persistencia\\AccesoBD.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Persistencia\\AccesoBD.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:44:34.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccesoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Persistencia\\AccesoDAO.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Persistencia\\AccesoDAO.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Persistencia\\AccesoDAO.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Persistencia\\AccesoDAO.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwGQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:41:29.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TCliente.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Negocio\\TCliente.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Negocio\\TCliente.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Negocio\\TCliente.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Negocio\\TCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:41:17.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlAccesoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Negocio\\ControlAccesoDAO.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Negocio\\ControlAccesoDAO.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Negocio\\ControlAccesoDAO.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Negocio\\ControlAccesoDAO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA+wCEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:41:01.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAcceso.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Persistencia\\IAcceso.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Persistencia\\IAcceso.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Persistencia\\IAcceso.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Persistencia\\IAcceso.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:35:20.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Program.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Program.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Program.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:34:48.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
