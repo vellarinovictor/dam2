@@ -7,23 +7,23 @@ using System.Threading.Tasks;
 
 namespace LibreriaV2.Datos
 {
-    class UtilSQL
-    {
-        public static String sqlInsertarLibro(TLibro obLibro)
+        class UtilSQL
         {
-            return "INSERT INTO `tlibro`(`titulo`, `autor`, `tema`, `paginas`,`precio`, `formatouno`, `formatodos`, `formatotres`, `estado`) VALUES ('"
-                    + obLibro.Titulo + "' , '" + obLibro.Autor + "' , '" + obLibro.Tema + "' , '"
-                    + obLibro.Paginas + "' , '" + obLibro.Precio + "' , '" + obLibro.Formatouno + "' , '" + obLibro.Formatodos + "' , '"
-                    + obLibro.Formatotres + "' , '" + obLibro.Estado + "')";
-        }
+            public static String sqlInsertarLibro(TLibro obLibro)
+            {
+                return "INSERT INTO `tlibro`(`titulo`, `autor`, `tema`, `paginas`,`precio`, `formatouno`, `formatodos`, `formatotres`, `estado`) VALUES ('"
+                        + obLibro.Titulo + "' , '" + obLibro.Autor + "' , '" + obLibro.Tema + "' , '"
+                        + obLibro.Paginas + "' , '" + obLibro.Precio + "' , '" + obLibro.Formatouno + "' , '" + obLibro.Formatodos + "' , '"
+                        + obLibro.Formatotres + "' , '" + obLibro.Estado + "')";
+            }
 
-        public static String sqlBorrarLibro(String nombre)
-        {
-            return "DELETE FROM `tlibro` WHERE `titulo` = '" + nombre + "'";
-        }
+            public static String sqlBorrarLibro(String nombre)
+            {
+                return "DELETE FROM `tlibro` WHERE `titulo` = '" + nombre + "'";
+            }
 
-        public static String sqlBuscarLibro(String nombre)
-        {
+            public static String sqlBuscarLibro(String nombre)
+            {
             return "SELECT * FROM `tlibro` WHERE `titulo` = '"
                     + nombre + "'";
         }

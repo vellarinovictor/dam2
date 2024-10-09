@@ -1,4 +1,4 @@
-﻿
+﻿    
 namespace LibreriaV2.Modelo
 {
     public class TLibro

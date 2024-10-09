@@ -1,17 +1,13 @@
-﻿using LibreriaV2;
-using System;
-using System.Windows.Forms;
-
-namespace LibreriaV1
+namespace MiLibreriaV4
 {
-    static class Program
+    internal static class Program
     {
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PantallaPrincipal());
+            Application.Run(new MainScreen());
         }
     }
 }
