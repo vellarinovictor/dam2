@@ -236,7 +236,7 @@ fun ImagenPerro() {
     Column {
         Image(
             painter = painterResource(R.drawable.images),
-            contentDescription = "Una imagen"
+            contentDescription = "Una imagen",
         )
         Text("PerroSanxe", fontSize = 24.sp)
     }

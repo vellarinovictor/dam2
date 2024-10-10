@@ -46,19 +46,19 @@ public class Main {
 		document.appendChild(alumnos);
 			//ALUMNO
 			Element alumno = document.createElement("Alumno");
-			alumno.setAttribute("nombre", "Pablo Motos");
-			alumno.setAttribute("edad", "48");
+			alumno.setAttribute("nombre", "Bad Gyal");
+			alumno.setAttribute("edad", "21");
 				//DIRECCION
 				Element direccion = document.createElement("Direccion");
-				direccion.setTextContent("Hormiguero");
+				direccion.setTextContent("Fabrik");
 				//TELEFONO
 				Element telefono = document.createElement("Telefono");
-				telefono.setTextContent("12345");
+				telefono.setTextContent("634249");
 				//Acabamos de crear el alumno con sus hijos
 				alumno.appendChild(direccion);
 				alumno.appendChild(telefono);
 			//Creamos el alumno dentro de la etiqueta alumnos
-			alumno.appendChild(alumno);
+			alumnos.appendChild(alumno);
 		Source origen = new DOMSource(document);
 		Result result = new StreamResult(new File("ficheros/alumnos.xml"));	
 		Transformer transf=null;
