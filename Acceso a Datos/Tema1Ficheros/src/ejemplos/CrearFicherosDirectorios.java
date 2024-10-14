@@ -1,16 +1,32 @@
 package ejemplos;
 
 import java.io.File;
+import java.io.IOException;
 
 public class CrearFicherosDirectorios {
-//Debemos crear un directorio en nuestro proyecto dentro de la carpeta resource
-	//nombre del directorio crearFicheros
-	//y creamos un fichero llamado fichero.txt
-	//Clases que podemos usar: File
-	public static void main(String[] args) {
-		File directorio = new File("resources/crearFicheros");
-		File fichero = new File(directorio,"fichero.txt");
-		System.out.println("Fichero creado en "+fichero.getAbsolutePath());
-	}
 
+    public static void main(String[] args) {
+        File directorio = new File("resources/crearFicheros");
+        if (!directorio.exists()) {
+            if (directorio.mkdirs()) {
+                System.out.println("Directorio creado en: " + directorio.getAbsolutePath());
+            } else {
+                System.out.println("No se pudo crear el directorio.");
+                return;
+            }
+        }
+        File fichero = new File(directorio, "fichero.txt");
+
+        try {
+            if (fichero.createNewFile()) {
+                System.out.println("Fichero creado en: " + fichero.getPath());
+            } else {
+                System.out.println("El fichero ya existe.");
+            }
+        } catch (IOException e) {
+            System.out.println("Ocurrió un error de entrada/salida.");
+            System.err.println(e.getMessage());
+            System.exit(-1);
+        }
+    }
 }
