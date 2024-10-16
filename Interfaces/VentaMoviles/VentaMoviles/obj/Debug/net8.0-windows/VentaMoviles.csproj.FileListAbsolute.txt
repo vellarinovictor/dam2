@@ -1,0 +1,17 @@
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\bin\Debug\net8.0-windows\VentaMoviles.exe
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\bin\Debug\net8.0-windows\VentaMoviles.deps.json
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\bin\Debug\net8.0-windows\VentaMoviles.runtimeconfig.json
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\bin\Debug\net8.0-windows\VentaMoviles.dll
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\bin\Debug\net8.0-windows\VentaMoviles.pdb
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\VentaMoviles.Form1.resources
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\VentaMoviles.csproj.GenerateResource.cache
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\VentaMoviles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\VentaMoviles.AssemblyInfoInputs.cache
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\VentaMoviles.AssemblyInfo.cs
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\VentaMoviles.csproj.CoreCompileInputs.cache
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\VentaMoviles.sourcelink.json
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\VentaMoviles.dll
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\refint\VentaMoviles.dll
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\VentaMoviles.pdb
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\VentaMoviles.genruntimeconfig.cache
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\VentaMoviles\VentaMoviles\obj\Debug\net8.0-windows\ref\VentaMoviles.dll

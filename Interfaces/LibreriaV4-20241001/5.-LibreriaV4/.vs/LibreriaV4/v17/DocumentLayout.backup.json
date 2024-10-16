@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav4-20241001\\5.-libreriav4\\libreriav1\\negocio\\iacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|solutionrelative:libreriav1\\negocio\\iacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav4-20241001\\5.-libreriav4\\libreriav1\\vista\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|solutionrelative:libreriav1\\vista\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav4-20241001\\5.-libreriav4\\libreriav1\\datos\\accesobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|solutionrelative:libreriav1\\datos\\accesobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav4-20241001\\5.-libreriav4\\libreriav1\\negocio\\tlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|solutionrelative:libreriav1\\negocio\\tlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav4-20241001\\5.-libreriav4\\libreriav1\\negocio\\accesolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|solutionrelative:libreriav1\\negocio\\accesolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\libreriav1\\vista\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7058990C-2AE1-4AC3-B11B-9ADCC6D14FC8}|LibreriaV1\\LibreriaV2.csproj|solutionrelative:libreriav1\\vista\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +22,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IAcceso.cs",
-              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Negocio\\IAcceso.cs",
-              "RelativeDocumentMoniker": "LibreriaV1\\Negocio\\IAcceso.cs",
-              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Negocio\\IAcceso.cs",
-              "RelativeToolTip": "LibreriaV1\\Negocio\\IAcceso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TLibro.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Negocio\\TLibro.cs",
+              "RelativeDocumentMoniker": "LibreriaV1\\Negocio\\TLibro.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Negocio\\TLibro.cs",
+              "RelativeToolTip": "LibreriaV1\\Negocio\\TLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T12:07:18.033Z",
+              "WhenOpened": "2024-10-16T08:49:40.85Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PantallaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Vista\\PantallaPrincipal.cs",
+              "RelativeDocumentMoniker": "LibreriaV1\\Vista\\PantallaPrincipal.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Vista\\PantallaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LibreriaV1\\Vista\\PantallaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:39:04.483Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccesoLibro.cs",
-              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Negocio\\AccesoLibro.cs",
-              "RelativeDocumentMoniker": "LibreriaV1\\Negocio\\AccesoLibro.cs",
-              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Negocio\\AccesoLibro.cs",
-              "RelativeToolTip": "LibreriaV1\\Negocio\\AccesoLibro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PantallaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Vista\\PantallaPrincipal.cs",
+              "RelativeDocumentMoniker": "LibreriaV1\\Vista\\PantallaPrincipal.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Vista\\PantallaPrincipal.cs",
+              "RelativeToolTip": "LibreriaV1\\Vista\\PantallaPrincipal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T11:00:12.731Z",
+              "WhenOpened": "2024-10-09T07:21:56.898Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccesoBD.cs",
-              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Datos\\AccesoBD.cs",
-              "RelativeDocumentMoniker": "LibreriaV1\\Datos\\AccesoBD.cs",
-              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV4-20241001\\5.-LibreriaV4\\LibreriaV1\\Datos\\AccesoBD.cs",
-              "RelativeToolTip": "LibreriaV1\\Datos\\AccesoBD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T11:00:02.776Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }

@@ -224,10 +224,5 @@ namespace LibreriaV2
             chkTapaDura.Checked = false;
             cbxTemas.SelectedIndex = 0;
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

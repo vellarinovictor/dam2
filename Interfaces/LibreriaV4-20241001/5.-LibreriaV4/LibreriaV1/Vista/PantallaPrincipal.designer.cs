@@ -69,7 +69,6 @@
             this.label1.Size = new System.Drawing.Size(311, 69);
             this.label1.TabIndex = 0;
             this.label1.Text = "LIBRERIA";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 

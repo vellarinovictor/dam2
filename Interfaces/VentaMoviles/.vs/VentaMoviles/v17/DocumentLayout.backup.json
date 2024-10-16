@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Form1.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Form1.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Form1.cs*",
+              "RelativeToolTip": "VentaMoviles\\Form1.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAIA5wFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:20:39.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Form1.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Form1.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "VentaMoviles\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:49:31.904Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
