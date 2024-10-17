@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">My Navigation</string>
+    <string name="app_name">Mi Navegación</string>
+    <string name="txt_welcome">Navegación con Jetpack Compose</string>
 </resources>

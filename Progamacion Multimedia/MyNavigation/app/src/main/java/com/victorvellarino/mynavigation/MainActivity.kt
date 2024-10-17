@@ -24,6 +24,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.core.content.ContextCompat.startActivity
@@ -75,7 +76,7 @@ fun HomeScreen(modifier: Modifier = Modifier, onNavSelected: (String) -> Unit = 
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        Text("Navegacion con Jetpack Compose")
+        Text(stringResource(R.string.txt_welcome))
         Text("Bienvenido a la PANTALLA PRINCIPAL")
         Spacer(Modifier.size(16.dp))
         ElevatedButton(onClick = { onNavSelected("secondScreen") }) {
