@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace VentaMoviles.Negocio
 {
-    internal class Errores
+    class Errores : Exception
     {
+        Exception _error;
+        public Errores(Exception e)
+        {
+            _error = e;
+        }
+
+        public override string Message { get; }
     }
 }

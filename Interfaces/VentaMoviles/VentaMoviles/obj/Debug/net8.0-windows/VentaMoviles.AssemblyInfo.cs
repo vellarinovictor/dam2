@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VentaMoviles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bf8f7a0c743051d8f43186bb3d66caa955d832a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b5798aa87da4a7cd407801cc93f74f20e36f07c")]
 [assembly: System.Reflection.AssemblyProductAttribute("VentaMoviles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VentaMoviles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

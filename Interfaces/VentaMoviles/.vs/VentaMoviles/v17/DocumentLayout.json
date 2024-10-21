@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\negocio\\utilsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\negocio\\utilsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\datos\\accesobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\datos\\accesobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\negocio\\tmovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\negocio\\tmovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +25,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\vista\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\vista\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\negocio\\accesomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\negocio\\accesomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\negocio\\errores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\negocio\\errores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\vista\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\vista\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\vista\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\vista\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\negocio\\iacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\negocio\\iacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\ventamoviles\\ventamoviles\\datos\\mapeo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BADD5-F161-45E3-97B0-EECAFD5B852D}|VentaMoviles\\VentaMoviles.csproj|solutionrelative:ventamoviles\\datos\\mapeo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,30 +61,82 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 252,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "Principal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Vista\\Principal.Designer.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Vista\\Principal.Designer.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Vista\\Principal.Designer.cs",
+              "RelativeToolTip": "VentaMoviles\\Vista\\Principal.Designer.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:23:08.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Principal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Vista\\Principal.cs",
               "RelativeDocumentMoniker": "VentaMoviles\\Vista\\Principal.cs",
               "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Vista\\Principal.cs [Dise\u00F1o]",
               "RelativeToolTip": "VentaMoviles\\Vista\\Principal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T08:40:07.356Z",
+              "WhenOpened": "2024-10-18T10:05:10.638Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\App.config",
+              "RelativeDocumentMoniker": "VentaMoviles\\App.config",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\App.config",
+              "RelativeToolTip": "VentaMoviles\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-18T08:21:34.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Errores.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Negocio\\Errores.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Negocio\\Errores.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Negocio\\Errores.cs",
+              "RelativeToolTip": "VentaMoviles\\Negocio\\Errores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:03:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mensajes.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Vista\\Mensajes.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Vista\\Mensajes.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Vista\\Mensajes.cs",
+              "RelativeToolTip": "VentaMoviles\\Vista\\Mensajes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:00:14.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Principal.cs",
               "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Vista\\Principal.cs",
               "RelativeDocumentMoniker": "VentaMoviles\\Vista\\Principal.cs",
               "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Vista\\Principal.cs",
               "RelativeToolTip": "VentaMoviles\\Vista\\Principal.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAJQAAAAAAAAAAAArwKsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T08:20:39.569Z",
               "EditorCaption": ""
@@ -52,12 +144,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Program.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Program.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Program.cs",
+              "RelativeToolTip": "VentaMoviles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:24:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mapeo.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Datos\\Mapeo.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Datos\\Mapeo.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Datos\\Mapeo.cs",
+              "RelativeToolTip": "VentaMoviles\\Datos\\Mapeo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:57:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAcceso.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Negocio\\IAcceso.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Negocio\\IAcceso.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Negocio\\IAcceso.cs",
+              "RelativeToolTip": "VentaMoviles\\Negocio\\IAcceso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:38:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesoBD.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Datos\\AccesoBD.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Datos\\AccesoBD.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Datos\\AccesoBD.cs",
+              "RelativeToolTip": "VentaMoviles\\Datos\\AccesoBD.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAnwGMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:53:15.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccesoMovil.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Negocio\\AccesoMovil.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Negocio\\AccesoMovil.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Negocio\\AccesoMovil.cs",
+              "RelativeToolTip": "VentaMoviles\\Negocio\\AccesoMovil.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:45:00.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilSQL.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Negocio\\UtilSQL.cs",
+              "RelativeDocumentMoniker": "VentaMoviles\\Negocio\\UtilSQL.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Negocio\\UtilSQL.cs",
+              "RelativeToolTip": "VentaMoviles\\Negocio\\UtilSQL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA8wAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:27:13.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TMovil.cs",
               "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Negocio\\TMovil.cs",
               "RelativeDocumentMoniker": "VentaMoviles\\Negocio\\TMovil.cs",
               "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\VentaMoviles\\VentaMoviles\\Negocio\\TMovil.cs",
               "RelativeToolTip": "VentaMoviles\\Negocio\\TMovil.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T08:49:15.868Z",
               "EditorCaption": ""

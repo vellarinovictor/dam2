@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace VentaMoviles.Negocio
 {
-    internal class TMovil
+    public class TMovil
     {
         public string Modelo { get; set; }
         public string Marca { get; set; }
@@ -26,5 +26,7 @@ namespace VentaMoviles.Negocio
             this.Extratres = extratres;
             this.Estado = estado;
         }
+
+        public TMovil() { }
     }
 }

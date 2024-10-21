@@ -29,18 +29,18 @@
         private void InitializeComponent()
         {
             textBox1 = new TextBox();
-            textBox7 = new TextBox();
-            textBox9 = new TextBox();
+            txtModelo = new TextBox();
+            txtPrecio = new TextBox();
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
-            groupBox1 = new GroupBox();
-            radioButton2 = new RadioButton();
-            radioButton1 = new RadioButton();
-            groupBox2 = new GroupBox();
-            checkBox3 = new CheckBox();
-            checkBox1 = new CheckBox();
-            checkBox2 = new CheckBox();
+            Almacenamiento = new GroupBox();
+            rb256 = new RadioButton();
+            rb128 = new RadioButton();
+            Extra = new GroupBox();
+            chkProtector = new CheckBox();
+            chkCarcasa = new CheckBox();
+            chkNfc = new CheckBox();
             listaMoviles = new ListBox();
             panel1 = new Panel();
             btnSalir = new Button();
@@ -48,9 +48,9 @@
             btnModificar = new Button();
             btnBaja = new Button();
             btnAlta = new Button();
-            comboBox1 = new ComboBox();
-            groupBox1.SuspendLayout();
-            groupBox2.SuspendLayout();
+            cbxMarcas = new ComboBox();
+            Almacenamiento.SuspendLayout();
+            Extra.SuspendLayout();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -65,23 +65,23 @@
             textBox1.Text = "Venta de Moviles";
             textBox1.TextAlign = HorizontalAlignment.Center;
             // 
-            // textBox7
+            // txtModelo
             // 
-            textBox7.Font = new Font("Segoe UI", 13F);
-            textBox7.Location = new Point(181, 85);
-            textBox7.Multiline = true;
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(188, 43);
-            textBox7.TabIndex = 1;
+            txtModelo.Font = new Font("Segoe UI", 13F);
+            txtModelo.Location = new Point(181, 85);
+            txtModelo.Multiline = true;
+            txtModelo.Name = "txtModelo";
+            txtModelo.Size = new Size(188, 43);
+            txtModelo.TabIndex = 1;
             // 
-            // textBox9
+            // txtPrecio
             // 
-            textBox9.Font = new Font("Segoe UI", 13F);
-            textBox9.Location = new Point(181, 191);
-            textBox9.Multiline = true;
-            textBox9.Name = "textBox9";
-            textBox9.Size = new Size(188, 41);
-            textBox9.TabIndex = 3;
+            txtPrecio.Font = new Font("Segoe UI", 13F);
+            txtPrecio.Location = new Point(181, 191);
+            txtPrecio.Multiline = true;
+            txtPrecio.Name = "txtPrecio";
+            txtPrecio.Size = new Size(188, 41);
+            txtPrecio.TabIndex = 3;
             // 
             // label1
             // 
@@ -113,80 +113,80 @@
             label3.TabIndex = 8;
             label3.Text = "Precio:";
             // 
-            // groupBox1
+            // Almacenamiento
             // 
-            groupBox1.Controls.Add(radioButton2);
-            groupBox1.Controls.Add(radioButton1);
-            groupBox1.Location = new Point(17, 261);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(142, 150);
-            groupBox1.TabIndex = 9;
-            groupBox1.TabStop = false;
-            groupBox1.Text = "Almacenamiento";
+            Almacenamiento.Controls.Add(rb256);
+            Almacenamiento.Controls.Add(rb128);
+            Almacenamiento.Location = new Point(17, 261);
+            Almacenamiento.Name = "Almacenamiento";
+            Almacenamiento.Size = new Size(142, 150);
+            Almacenamiento.TabIndex = 9;
+            Almacenamiento.TabStop = false;
+            Almacenamiento.Text = "Almacenamiento";
             // 
-            // radioButton2
+            // rb256
             // 
-            radioButton2.AutoSize = true;
-            radioButton2.Location = new Point(23, 56);
-            radioButton2.Name = "radioButton2";
-            radioButton2.Size = new Size(73, 24);
-            radioButton2.TabIndex = 1;
-            radioButton2.TabStop = true;
-            radioButton2.Text = "256GB";
-            radioButton2.UseVisualStyleBackColor = true;
+            rb256.AutoSize = true;
+            rb256.Location = new Point(23, 56);
+            rb256.Name = "rb256";
+            rb256.Size = new Size(73, 24);
+            rb256.TabIndex = 1;
+            rb256.Text = "256GB";
+            rb256.UseVisualStyleBackColor = true;
             // 
-            // radioButton1
+            // rb128
             // 
-            radioButton1.AutoSize = true;
-            radioButton1.Location = new Point(23, 26);
-            radioButton1.Name = "radioButton1";
-            radioButton1.Size = new Size(73, 24);
-            radioButton1.TabIndex = 0;
-            radioButton1.TabStop = true;
-            radioButton1.Text = "128GB";
-            radioButton1.UseVisualStyleBackColor = true;
+            rb128.AutoSize = true;
+            rb128.Checked = true;
+            rb128.Location = new Point(24, 26);
+            rb128.Name = "rb128";
+            rb128.Size = new Size(73, 24);
+            rb128.TabIndex = 0;
+            rb128.TabStop = true;
+            rb128.Text = "128GB";
+            rb128.UseVisualStyleBackColor = true;
             // 
-            // groupBox2
+            // Extra
             // 
-            groupBox2.Controls.Add(checkBox3);
-            groupBox2.Controls.Add(checkBox1);
-            groupBox2.Controls.Add(checkBox2);
-            groupBox2.Location = new Point(227, 261);
-            groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(142, 150);
-            groupBox2.TabIndex = 10;
-            groupBox2.TabStop = false;
-            groupBox2.Text = "Extras";
+            Extra.Controls.Add(chkProtector);
+            Extra.Controls.Add(chkCarcasa);
+            Extra.Controls.Add(chkNfc);
+            Extra.Location = new Point(227, 261);
+            Extra.Name = "Extra";
+            Extra.Size = new Size(142, 150);
+            Extra.TabIndex = 10;
+            Extra.TabStop = false;
+            Extra.Text = "Extras";
             // 
-            // checkBox3
+            // chkProtector
             // 
-            checkBox3.AutoSize = true;
-            checkBox3.Location = new Point(15, 87);
-            checkBox3.Name = "checkBox3";
-            checkBox3.Size = new Size(92, 24);
-            checkBox3.TabIndex = 2;
-            checkBox3.Text = "Protector";
-            checkBox3.UseVisualStyleBackColor = true;
+            chkProtector.AutoSize = true;
+            chkProtector.Location = new Point(15, 87);
+            chkProtector.Name = "chkProtector";
+            chkProtector.Size = new Size(92, 24);
+            chkProtector.TabIndex = 2;
+            chkProtector.Text = "Protector";
+            chkProtector.UseVisualStyleBackColor = true;
             // 
-            // checkBox1
+            // chkCarcasa
             // 
-            checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(15, 57);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(82, 24);
-            checkBox1.TabIndex = 1;
-            checkBox1.Text = "Carcasa";
-            checkBox1.UseVisualStyleBackColor = true;
+            chkCarcasa.AutoSize = true;
+            chkCarcasa.Location = new Point(15, 57);
+            chkCarcasa.Name = "chkCarcasa";
+            chkCarcasa.Size = new Size(82, 24);
+            chkCarcasa.TabIndex = 1;
+            chkCarcasa.Text = "Carcasa";
+            chkCarcasa.UseVisualStyleBackColor = true;
             // 
-            // checkBox2
+            // chkNfc
             // 
-            checkBox2.AutoSize = true;
-            checkBox2.Location = new Point(15, 27);
-            checkBox2.Name = "checkBox2";
-            checkBox2.Size = new Size(58, 24);
-            checkBox2.TabIndex = 0;
-            checkBox2.Text = "NFC";
-            checkBox2.UseVisualStyleBackColor = true;
+            chkNfc.AutoSize = true;
+            chkNfc.Location = new Point(15, 27);
+            chkNfc.Name = "chkNfc";
+            chkNfc.Size = new Size(58, 24);
+            chkNfc.TabIndex = 0;
+            chkNfc.Text = "NFC";
+            chkNfc.UseVisualStyleBackColor = true;
             // 
             // listaMoviles
             // 
@@ -195,6 +195,7 @@
             listaMoviles.Name = "listaMoviles";
             listaMoviles.Size = new Size(328, 184);
             listaMoviles.TabIndex = 11;
+            listaMoviles.SelectedIndexChanged += new System.EventHandler(this.lstLibros_SelectedIndexChanged);
             // 
             // panel1
             // 
@@ -216,6 +217,7 @@
             btnSalir.TabIndex = 4;
             btnSalir.Text = "Salir";
             btnSalir.UseVisualStyleBackColor = true;
+            btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // btnNuevo
             // 
@@ -225,6 +227,7 @@
             btnNuevo.TabIndex = 3;
             btnNuevo.Text = "Nuevo";
             btnNuevo.UseVisualStyleBackColor = true;
+            btnNuevo.Click += new System.EventHandler(this.btnNuevo_Click);
             // 
             // btnModificar
             // 
@@ -234,6 +237,7 @@
             btnModificar.TabIndex = 2;
             btnModificar.Text = "Modificar";
             btnModificar.UseVisualStyleBackColor = true;
+            btnModificar.Click += new System.EventHandler(this.btnModificar_Click);
             // 
             // btnBaja
             // 
@@ -243,6 +247,7 @@
             btnBaja.TabIndex = 1;
             btnBaja.Text = "Baja";
             btnBaja.UseVisualStyleBackColor = true;
+            btnBaja.Click += new System.EventHandler(this.btnBaja_Click);
             // 
             // btnAlta
             // 
@@ -252,41 +257,42 @@
             btnAlta.TabIndex = 0;
             btnAlta.Text = "Alta";
             btnAlta.UseVisualStyleBackColor = true;
+            btnAlta.Click += new System.EventHandler(this.btnAlta_Click);
             // 
-            // comboBox1
+            // cbxMarcas
             // 
-            comboBox1.Font = new Font("Segoe UI", 13F);
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Apple", "Samsung", "Xiaomi", "PeraPhone", "Hawei", "Google", "Nothing", "Oppo", "Sony", "Vivo" });
-            comboBox1.Location = new Point(181, 142);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(188, 38);
-            comboBox1.TabIndex = 13;
-            comboBox1.Text = "Seleccionar";
+            cbxMarcas.Font = new Font("Segoe UI", 13F);
+            cbxMarcas.FormattingEnabled = true;
+            cbxMarcas.Items.AddRange(new object[] { "Apple", "Samsung", "Xiaomi", "PeraPhone", "Hawei", "Google", "Nothing", "Oppo", "Sony", "Vivo" });
+            cbxMarcas.Location = new Point(181, 142);
+            cbxMarcas.Name = "cbxMarcas";
+            cbxMarcas.Size = new Size(188, 38);
+            cbxMarcas.TabIndex = 13;
+            cbxMarcas.Text = "Seleccionar";
             // 
             // Principal
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(781, 478);
-            Controls.Add(comboBox1);
+            Controls.Add(cbxMarcas);
             Controls.Add(panel1);
             Controls.Add(listaMoviles);
-            Controls.Add(groupBox2);
-            Controls.Add(groupBox1);
+            Controls.Add(Extra);
+            Controls.Add(Almacenamiento);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(textBox9);
-            Controls.Add(textBox7);
+            Controls.Add(txtPrecio);
+            Controls.Add(txtModelo);
             Controls.Add(textBox1);
             Name = "Principal";
-            Text = "Form1";
+            Text = "OhMyMobile";
             Load += Form1_Load;
-            groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
-            groupBox2.ResumeLayout(false);
-            groupBox2.PerformLayout();
+            Almacenamiento.ResumeLayout(false);
+            Almacenamiento.PerformLayout();
+            Extra.ResumeLayout(false);
+            Extra.PerformLayout();
             panel1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
@@ -295,18 +301,18 @@
         #endregion
 
         private TextBox textBox1;
-        private TextBox textBox7;
-        private TextBox textBox9;
+        private TextBox txtModelo;
+        private TextBox txtPrecio;
         private Label label1;
         private Label label2;
         private Label label3;
-        private GroupBox groupBox1;
-        private RadioButton radioButton1;
-        private RadioButton radioButton2;
-        private GroupBox groupBox2;
-        private CheckBox checkBox2;
-        private CheckBox checkBox3;
-        private CheckBox checkBox1;
+        private GroupBox Almacenamiento;
+        private RadioButton rb128;
+        private RadioButton rb256;
+        private GroupBox Extra;
+        private CheckBox chkNfc;
+        private CheckBox chkProtector;
+        private CheckBox chkCarcasa;
         private ListBox listaMoviles;
         private Panel panel1;
         private Button btnAlta;
@@ -314,6 +320,6 @@
         private Button btnNuevo;
         private Button btnModificar;
         private Button btnBaja;
-        private ComboBox comboBox1;
+        private ComboBox cbxMarcas;
     }
 }

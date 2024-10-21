@@ -1,12 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace VentaMoviles.Negocio
+namespace LibreriaV2.Datos
 {
-    internal interface IAcceso
+    interface IAcceso<obj>
     {
+        bool insertarMovil(obj objeto);
+        bool borrarMovil(obj objeto);
+        Object buscarMovil(String nombre);
+        List<object> obtenerMoviles();
+        bool modificarMovil(obj objeto);
     }
+
 }
