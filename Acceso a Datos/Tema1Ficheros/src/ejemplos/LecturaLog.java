@@ -3,6 +3,7 @@ package ejemplos;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.StandardOpenOption;
 import java.util.List;
 
 public class LecturaLog {
@@ -23,7 +24,17 @@ public class LecturaLog {
             int inicioRuta = linea.indexOf("fichlog:") + "fichlog:".length();
             int finRuta = linea.indexOf("numses:");
             Path rutaLog = Path.of(linea.substring(inicioRuta, finRuta).trim());
-            Files.write
+            System.out.println(rutaLog);
+            try {
+				List<String> lecturaLog = Files.readAllLines(rutaLog);
+				for (String registro : lecturaLog) {
+					System.out.println(registro);
+				}
+			} catch (Exception e) {
+				Path rutaIncidencias = Path.of("src/ejemplos/recursos/incidencias.log");
+				Files.writeString(rutaIncidencias, e.getMessage(), StandardOpenOption.APPEND);
+			}
+            
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
