@@ -40,7 +40,7 @@ namespace LibreriaV5_Final.Vista
         private void ClientesToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
-            //new FrmClientes().ShowDialog(this);
+            new FrmClientes().ShowDialog(this);
             
         }
 

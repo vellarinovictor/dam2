@@ -61,6 +61,9 @@
     <Compile Include="Negocio\TLineaFactura.cs" />
     <Compile Include="Persistencia\AccesoDAO.cs" />
     <Compile Include="Persistencia\UtilSQL.cs" />
+    <Compile Include="Vista\FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Vista\FrmConsultarFacturas.cs">
       <SubType>Form</SubType>
     </Compile>
