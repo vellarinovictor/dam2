@@ -74,3 +74,4 @@ C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\LibreriaV5-20241008\1-LibreriaV5.1-
 C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\LibreriaV5-20241008\1-LibreriaV5.1-Inicio\Libreria-V5_Final\LibreriaV5_Final\obj\Debug\Libreria.AEA80900.Up2Date
 C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\LibreriaV5-20241008\1-LibreriaV5.1-Inicio\Libreria-V5_Final\LibreriaV5_Final\obj\Debug\LibreriaV5_Final.exe
 C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\LibreriaV5-20241008\1-LibreriaV5.1-Inicio\Libreria-V5_Final\LibreriaV5_Final\obj\Debug\LibreriaV5_Final.pdb
+C:\Users\dam2\Desktop\ASIGNATURAS\Interfaces\LibreriaV5-20241008\1-LibreriaV5.1-Inicio\Libreria-V5_Final\LibreriaV5_Final\obj\Debug\LibreriaV5_Final.Vista.Clientes.resources
