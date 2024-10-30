@@ -29,13 +29,13 @@ namespace LibreriaV5_Final.Vista
                 {
                     if (control.Buscar(cliente.GetType(), cliente.CodCliente) != null)
                     {
-                        MessageBox.Show(Mensajes.MSG_YAEXISTE_LIBRO);
+                        MessageBox.Show(Mensajes.MSG_YAEXISTE_CLIENTE);
                     }
                     else
                     {
                         control.Insertar(cliente);
                         lstClientes.Items.Add(cliente);
-                        MessageBox.Show(Mensajes.MSG_INSERTADO_LIBRO);
+                        MessageBox.Show(Mensajes.MSG_INSERTADO_CLIENTE);
                     }
                 }
                 lstClientes.ClearSelected();
@@ -66,14 +66,14 @@ namespace LibreriaV5_Final.Vista
                     {
                         if (control.Borrar(lstClientes.SelectedItem))
                         {
-                            MessageBox.Show(Mensajes.MSG_BORRADO_LIBRO);
+                            MessageBox.Show(Mensajes.MSG_BORRADO_CLIENTE);
                             lstClientes.Items.Remove(lstClientes.SelectedItem);
                         }
                     }
                 }
                 else
                 {
-                    MessageBox.Show(Mensajes.MSG_SELECCIONAR_LIBRO);
+                    MessageBox.Show(Mensajes.MSG_SELECCIONAR_CLIENTE);
                 }
             } catch (Exception ex)
             {
@@ -93,7 +93,7 @@ namespace LibreriaV5_Final.Vista
                     {
                         lstClientes.Items.Remove(lstClientes.SelectedItem);
                         lstClientes.Items.Add(cliente);
-                        MessageBox.Show(Mensajes.MSG_MODIFICADO_LIBRO);
+                        MessageBox.Show(Mensajes.MSG_MODIFICADO_CLIENTE);
                         VaciarPantalla();
                     }
                 }

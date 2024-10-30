@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-20241008\\1-libreriav5.1-inicio\\libreria-v5_final\\libreriav5_final\\vista\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5_Final\\LibreriaV5_Final.csproj|solutionrelative:libreriav5_final\\vista\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "LibreriaV5_Final\\Vista\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-20241008\\1-LibreriaV5.1-Inicio\\Libreria-V5_Final\\LibreriaV5_Final\\Vista\\FrmClientes.cs",
+              "RelativeToolTip": "LibreriaV5_Final\\Vista\\FrmClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:20:51.007Z",
+              "EditorCaption": ""
             }
           ]
         }

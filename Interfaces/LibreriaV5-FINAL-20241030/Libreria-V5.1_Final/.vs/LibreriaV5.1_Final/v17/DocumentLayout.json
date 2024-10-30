@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|c:\\users\\dam2\\desktop\\asignaturas\\interfaces\\libreriav5-final-20241030\\libreria-v5.1_final\\libreriav5.1_final\\persistencia\\accesodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|solutionrelative:libreriav5.1_final\\persistencia\\accesodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\libreriav5.1_final\\negocio\\controlaccesodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|solutionrelative:libreriav5.1_final\\negocio\\controlaccesodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\libreriav5.1_final\\comun\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|solutionrelative:libreriav5.1_final\\comun\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\libreriav5.1_final\\comun\\errores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|solutionrelative:libreriav5.1_final\\comun\\errores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\libreriav5.1_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|solutionrelative:libreriav5.1_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\libreriav5.1_final\\vista\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|solutionrelative:libreriav5.1_final\\vista\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\libreriav5.1_final\\vista\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01C38D00-3D51-442C-ACDF-5B1E719A60D3}|LibreriaV5.1_Final\\LibreriaV5.1_Final.csproj|solutionrelative:libreriav5.1_final\\vista\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlAccesoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Negocio\\ControlAccesoDAO.cs",
+              "RelativeDocumentMoniker": "LibreriaV5.1_Final\\Negocio\\ControlAccesoDAO.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Negocio\\ControlAccesoDAO.cs",
+              "RelativeToolTip": "LibreriaV5.1_Final\\Negocio\\ControlAccesoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:52:08.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mensajes.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Comun\\Mensajes.cs",
+              "RelativeDocumentMoniker": "LibreriaV5.1_Final\\Comun\\Mensajes.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Comun\\Mensajes.cs",
+              "RelativeToolTip": "LibreriaV5.1_Final\\Comun\\Mensajes.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:52:04.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Errores.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Comun\\Errores.cs",
+              "RelativeDocumentMoniker": "LibreriaV5.1_Final\\Comun\\Errores.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Comun\\Errores.cs",
+              "RelativeToolTip": "LibreriaV5.1_Final\\Comun\\Errores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:52:03.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Program.cs",
+              "RelativeDocumentMoniker": "LibreriaV5.1_Final\\Program.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Program.cs",
+              "RelativeToolTip": "LibreriaV5.1_Final\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:48:48.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Persistencia\\AccesoDAO.cs",
+              "RelativeDocumentMoniker": "LibreriaV5.1_Final\\Persistencia\\AccesoDAO.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Persistencia\\AccesoDAO.cs",
+              "RelativeToolTip": "LibreriaV5.1_Final\\Persistencia\\AccesoDAO.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowGwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:40:45.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Vista\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "LibreriaV5.1_Final\\Vista\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Vista\\FrmClientes.cs",
+              "RelativeToolTip": "LibreriaV5.1_Final\\Vista\\FrmClientes.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:39:37.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Vista\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "LibreriaV5.1_Final\\Vista\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\dam2\\Desktop\\ASIGNATURAS\\Interfaces\\LibreriaV5-FINAL-20241030\\Libreria-V5.1_Final\\LibreriaV5.1_Final\\Vista\\FrmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LibreriaV5.1_Final\\Vista\\FrmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:39:32.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

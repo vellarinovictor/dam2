@@ -46,6 +46,7 @@ namespace LibreriaV5_Final.Vista
             // 
             // txtNombre
             // 
+            this.txtNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
             this.txtNombre.Location = new System.Drawing.Point(166, 98);
             this.txtNombre.Multiline = true;
             this.txtNombre.Name = "txtNombre";
@@ -60,6 +61,7 @@ namespace LibreriaV5_Final.Vista
             // 
             // txtApellidos
             // 
+            this.txtApellidos.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
             this.txtApellidos.Location = new System.Drawing.Point(166, 161);
             this.txtApellidos.Multiline = true;
             this.txtApellidos.Name = "txtApellidos";
@@ -68,6 +70,7 @@ namespace LibreriaV5_Final.Vista
             // 
             // txtDni
             // 
+            this.txtDni.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
             this.txtDni.Location = new System.Drawing.Point(166, 231);
             this.txtDni.Multiline = true;
             this.txtDni.Name = "txtDni";
@@ -76,6 +79,7 @@ namespace LibreriaV5_Final.Vista
             // 
             // txtDireccion
             // 
+            this.txtDireccion.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
             this.txtDireccion.Location = new System.Drawing.Point(166, 302);
             this.txtDireccion.Multiline = true;
             this.txtDireccion.Name = "txtDireccion";
@@ -84,6 +88,7 @@ namespace LibreriaV5_Final.Vista
             // 
             // txtEmail
             // 
+            this.txtEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
             this.txtEmail.Location = new System.Drawing.Point(166, 377);
             this.txtEmail.Multiline = true;
             this.txtEmail.Name = "txtEmail";

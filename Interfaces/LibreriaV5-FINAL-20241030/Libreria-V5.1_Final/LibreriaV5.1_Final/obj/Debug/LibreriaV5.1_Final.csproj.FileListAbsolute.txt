@@ -1,0 +1,16 @@
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5.1_Final.csprojAssemblyReference.cache
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5_1_Final.Vista.FrmClientes.resources
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5_1_Final.Vista.FrmConsultarFacturas.resources
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5_1_Final.Vista.FrmInsertarFacturas.resources
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5_1_Final.FrmLibro.resources
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5_Final.Properties.Resources.resources
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5_1_Final.Vista.FrmPrincipal.resources
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5.1_Final.csproj.GenerateResource.cache
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5.1_Final.csproj.CoreCompileInputs.cache
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5_Final.exe
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5_Final.pdb
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\bin\Debug\LibreriaV5_Final.exe.config
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\bin\Debug\LibreriaV5_Final.exe
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\bin\Debug\LibreriaV5_Final.pdb
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\bin\Debug\MySql.Data.dll
+G:\Code\LibreriaV5.1\Libreria-V5.1_Final\LibreriaV5.1_Final\obj\Debug\LibreriaV5.1_Final.csproj.CopyComplete
