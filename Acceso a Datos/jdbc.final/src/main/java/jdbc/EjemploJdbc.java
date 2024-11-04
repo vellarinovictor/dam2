@@ -5,7 +5,10 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.List;
 
+import jdbc.modelo.Producto;
+import jdbc.repositorio.ProductoRepositorioImpl;
 import jdbc.util.ConexionBaseDatos;
 
 public class EjemploJdbc {
@@ -27,14 +30,9 @@ public class EjemploJdbc {
 				e.printStackTrace();
 			}
 
-			while (resultado.next()) {
-				System.out.print(resultado.getInt("id"));
-				System.out.print(" | ");
-				System.out.print(resultado.getString("nombre"));
-				System.out.print(" | ");
-				System.out.print(resultado.getInt("precio"));
-				System.out.print(" | ");
-				System.out.println(resultado.getDate("fecha_registro"));
+			 List<Producto> lista = ProductoRepositorioImpl.listar();
+			 for (Producto producto : lista) {
+				System.out.println(producto);
 			}
 
 		} catch (SQLException e) {
