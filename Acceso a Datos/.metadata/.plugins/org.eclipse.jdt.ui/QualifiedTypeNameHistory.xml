@@ -15,4 +15,5 @@
     <fullyQualifiedTypeName name="jdbc.util.ConexionBaseDatos"/>
     <fullyQualifiedTypeName name="jdbc.modelo.Producto"/>
     <fullyQualifiedTypeName name="jdbc.repositorio.ProductoRepositorioImpl"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 </qualifiedTypeNameHistroy>

@@ -12,7 +12,7 @@ import jdbc.modelo.Producto;
 import jdbc.repositorio.ProductoRepositorioImpl;
 import jdbc.util.ConexionBaseDatos;
 
-public class EjemploJdbc {
+public class DeleteJdbc {
 
 	public static void main(String[] args) {
 		ProductoRepositorioImpl repository = new ProductoRepositorioImpl();
@@ -40,6 +40,9 @@ public class EjemploJdbc {
 
 			System.out.println("FILTRADO POR ID");
 			System.out.println(repository.porId(3));
+			
+			if(repository.eliminar(2)) System.out.println("Se ha borrado el registro");
+			else System.out.println("No se ha borrado el registro");
 			
 		} catch (SQLException e) {
 

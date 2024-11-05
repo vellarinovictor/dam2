@@ -10,11 +10,18 @@ public class Producto{
 	private String nombre;
 	private int precio;
 	private Date fecha_registro;
+	private Categoria categoria;
 	
 	
 	
-	public Long getId() {
+	public long getId() {
 		return id;
+	}
+	public Categoria getCategoria() {
+		return categoria;
+	}
+	public void setCategoria(Categoria categoria) {
+		this.categoria = categoria;
 	}
 	public void setId(long id) {
 		this.id = id;
@@ -60,6 +67,7 @@ public class Producto{
 				+ " | " + nombre 
 				+ " | " + precio 
 				+ " | " + fecha_registro
+				+ " | " + categoria
 				+ "]";
 	}
 	
