@@ -14,7 +14,7 @@ public class Producto{
 	
 	
 	
-	public long getId() {
+	public Long getId() {
 		return id;
 	}
 	public Categoria getCategoria() {
