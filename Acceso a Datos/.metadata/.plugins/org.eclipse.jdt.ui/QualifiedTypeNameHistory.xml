@@ -11,9 +11,11 @@
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="jdbc.repositorio.Repositorio"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.sql.SQLException"/>
-    <fullyQualifiedTypeName name="jdbc.util.ConexionBaseDatos"/>
-    <fullyQualifiedTypeName name="jdbc.modelo.Producto"/>
     <fullyQualifiedTypeName name="jdbc.repositorio.ProductoRepositorioImpl"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="jdbc.modelo.Producto"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.jdbc.result.CachedResultSetMetaDataImpl"/>
+    <fullyQualifiedTypeName name="jdbc.modelo.Categoria"/>
+    <fullyQualifiedTypeName name="jdbc.util.ConexionBaseDatos"/>
 </qualifiedTypeNameHistroy>

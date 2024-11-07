@@ -43,14 +43,26 @@ public class UpdateJdbc {
 			Producto producto = new Producto();
 			producto.setId(2);
 			producto.setNombre("ASPERSOR");
-			producto.setPrecio(23);
+			producto.setPrecio(34);
 			producto.setFecha_registro(new Date());
 			Categoria categoria = new Categoria();
-			categoria.setId(2L);
+			categoria.setId(9L);
 			producto.setCategoria(categoria);
 			
 			if(repository.guardar(producto)) System.out.println("Se ha modificado el Producto");
 			else System.out.println("No se ha modificado el producto");
+			
+			System.out.println("INSERTAR UN PRODUCTO");
+			producto = new Producto();
+			producto.setNombre("LIBRO DERIVADAS");
+			producto.setPrecio(45);
+			producto.setFecha_registro(new Date());
+			categoria = new Categoria();
+			categoria.setId(6L);
+			producto.setCategoria(categoria);
+			
+			if(repository.guardar(producto)) System.out.println("Se ha insertado el producto");
+			else System.out.println("No se ha insertado el producto");
 
 			System.out.println("LISTADO DE DATOS");
 			repository.listar().forEach(System.out::println);
