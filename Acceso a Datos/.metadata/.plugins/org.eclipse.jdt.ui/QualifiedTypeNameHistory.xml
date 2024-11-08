@@ -14,8 +14,8 @@
     <fullyQualifiedTypeName name="jdbc.repositorio.ProductoRepositorioImpl"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="jdbc.modelo.Producto"/>
-    <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="com.mysql.cj.jdbc.result.CachedResultSetMetaDataImpl"/>
     <fullyQualifiedTypeName name="jdbc.modelo.Categoria"/>
     <fullyQualifiedTypeName name="jdbc.util.ConexionBaseDatos"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
 </qualifiedTypeNameHistroy>
