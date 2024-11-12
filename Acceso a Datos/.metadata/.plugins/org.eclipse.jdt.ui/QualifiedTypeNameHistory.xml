@@ -18,4 +18,9 @@
     <fullyQualifiedTypeName name="jdbc.modelo.Categoria"/>
     <fullyQualifiedTypeName name="jdbc.util.ConexionBaseDatos"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.nio.charset.StandardCharsets"/>
+    <fullyQualifiedTypeName name="org.hibernate.boot.registry.StandardServiceRegistry"/>
+    <fullyQualifiedTypeName name="org.hibernate.boot.registry.StandardServiceRegistryBuilder"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.boot.MetadataSources"/>
 </qualifiedTypeNameHistroy>
