@@ -5,18 +5,29 @@ import java.util.Date;
 public class Persona {
 	private int id;
 	private String nombre;
+	private String apellidos;
 	private int edad;
 	private Date fechaNacimiento;
+	
 
 	public Persona() {
 	}
 
-	public Persona(int id, String nombre, int edad, Date nacimiento) {
+	public Persona(int id, String nombre, String apellidos, int edad, Date nacimiento) {
 		super();
 		this.id = id;
 		this.nombre = nombre;
 		this.edad = edad;
 		this.fechaNacimiento = nacimiento;
+		this.apellidos = apellidos;
+	}
+
+	public String getApellidos() {
+		return apellidos;
+	}
+
+	public void setApellidos(String apellidos) {
+		this.apellidos = apellidos;
 	}
 
 	public int getId() {
@@ -53,7 +64,8 @@ public class Persona {
 
 	@Override
 	public String toString() {
-		return "Persona [id=" + id + ", nombre=" + nombre + ", edad=" + edad + ", fechaNacimiento=" + fechaNacimiento + "]";
+		return "Persona [id=" + id + ", nombre=" + nombre + ", apellidos=" + apellidos + ", edad=" + edad
+				+ ", fechaNacimiento=" + fechaNacimiento + "]";
 	}
 
 }

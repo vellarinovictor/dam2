@@ -10,5 +10,7 @@
         <property name="nombre" type="string" column="nombre" length="50"/>
         <property name="edad" type="integer" column="edad" />
         <property name="fechaNacimiento" type="date" column="fecha_nacimiento"/>
+        <property name="apellidos" type="string" column="apellidos" length="70"/>
+
     </class>
 </hibernate-mapping>
