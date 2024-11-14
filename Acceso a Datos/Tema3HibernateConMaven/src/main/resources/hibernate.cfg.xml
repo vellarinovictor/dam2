@@ -9,7 +9,8 @@
 		<property name = "connection.password"></property>
 		<property name = "hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
 		<property name = "hibernate.hbm2ddl.auto">create</property>
-		<property name = "hibernate.show_sql">true</property>
-		<mapping resource="persona.hbm.xml"/>
+		<property name = "hibernate.show_sql">false</property>
+		<!-- mapping resource="persona.hbm.xml"/ -->
+		<mapping class="entities.Persona"/>
 	</session-factory>
 </hibernate-configuration>
